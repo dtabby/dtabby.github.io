@@ -38,3 +38,5 @@ tags	    포스트 태그 정의
 date	    작성일
 
 -------------------------------
+
+![test01](C:\Users\USER\Documents\GitHub\dtabby-github-blog\images\2023-03-07-first-post\test01.jpg)
