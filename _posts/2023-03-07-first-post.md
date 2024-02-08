@@ -20,7 +20,7 @@ YFM(YAML Front Matter)에서 정의한 제목을 이중 괄호 구문으로 본�
 
 이 글의 제목은 "{{ page.title }}" 이고,
 
-마지막으로 수정된 시간은 "{{ page.last_modified_at }}"이다.
+마지막으로 수정된 시간은 "{{ page.last_modified_at }}"이다. <- 시간이 나오지 않음 (수정 필요)
 
 파일 이름의 형식을 반드시 맞춰줘야 한다 - YEAR-MONTH-DAY-title.MARKUP
 
